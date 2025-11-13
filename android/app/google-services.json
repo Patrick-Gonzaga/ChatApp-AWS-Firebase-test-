@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "562988119017",
+    "firebase_url": "https://comms-ff8b9-default-rtdb.firebaseio.com",
+    "project_id": "comms-ff8b9",
+    "storage_bucket": "comms-ff8b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562988119017:android:aed3141459b585c2121178",
+        "android_client_info": {
+          "package_name": "com.patrickgonzaga.comms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXt88WT6LMaRKGk3POGqUKXbxU4VSFyK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
